@@ -1,4 +1,4 @@
 fastapi
-uvicorn
-librosa
+uvicorn[standard]
 python-multipart
+
